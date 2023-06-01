@@ -1,4 +1,2 @@
 # EmilioSch.github.io
 
-
-Hola
